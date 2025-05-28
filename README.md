@@ -1,2 +1,9 @@
-# quiz-master
-A simple quiz application built by two friends who are learning Python together. We're starting small to improve our skills step by step and sharing our journey along the way. This project is our first step into collaboration, version control, and building something fun with code.
+# Quiz Master
+
+A simple quiz app made by two friends learning Python.  
+We started this project to practice working with code together, and to learn version control and collaboration through GitHub.
+
+## 🎯 Features
+- Multiple-choice questions
+- Score tracking
+- Randomized questions
