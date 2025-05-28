@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "options": [
+                "Berlin",
+                "Madrid",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": [
+                "Harper Lee",
+                "Mark Twain",
+                "Ernest Hemingway",
+                "F. Scott Fitzgerald"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": [
+                "H2O",
+                "CO2",
+                "O2",
+                "NaCl"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What is the capital of Japan?",
+            "options": [
+                "Seoul",
+                "Beijing",
+                "Tokyo",
+                "Bangkok"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the smallest country in the world?",
+            "options": [
+                "Monaco",
+                "Vatican City",
+                "San Marino",
+                "Liechtenstein"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Diamond",
+                "Iron",
+                "Platinum"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "options": [
+                "Tomato",
+                "Avocado",
+                "Onion",
+                "Pepper"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest mammal in the world?",
+            "options": [
+                "Elephant",
+                "Blue Whale",
+                "Giraffe",
+                "Great White Shark"
+            ],
+            "answer": 1
+        }
+    ]
+}
