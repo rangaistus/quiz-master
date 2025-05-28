@@ -7,3 +7,17 @@ We started this project to practice working with code together, and to learn ver
 - Multiple-choice questions
 - Score tracking
 - Randomized questions
+
+## 🛠️ Built With
+- Python 3
+- JSON (for questions)
+- Love and caffeine ☕💻
+
+## 📚 Future Plans
+- Add timer-based questions
+- GUI version (Tkinter)
+- Load questions from external API (Maybe?)
+
+## 👥 Contributors
+- @rangaistus
+- @roheliune
